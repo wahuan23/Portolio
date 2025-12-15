@@ -4531,6 +4531,14 @@ h7, .h7 {
 	body.is-mobile #main > header {
 		background-attachment: scroll;
 	}
+	body.is-mobile .container-fond button {
+		height: 50%;
+
+	}
+	body.is-mobile .container-fond img {
+		margin-top: 10%;
+	}
+
 
 /* Footer */
 
